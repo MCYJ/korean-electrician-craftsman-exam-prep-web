@@ -41,3 +41,4 @@
 ## Work log
 
 - 2026-09-18: Created the bilingual site with current Q-Net facts and electric-sky wiring-board design. Production evidence will be appended after publication.
+- 2026-09-18: GitHub Pages deployment run `35357547052` passed. Production QA returned HTTP 200 for all 34 sitemap routes and sampled assets, HTTP 404 for a missing route, confirmed deployed `word-break: keep-all`, Google Play HTTP 200 and Apple lookup result count 1 with exact track ID `6797304717`.
