@@ -43,3 +43,9 @@
 - 2026-09-18: Created the bilingual site with current Q-Net facts and electric-sky wiring-board design. Production evidence will be appended after publication.
 - 2026-09-18: GitHub Pages deployment run `35357547052` passed. Production QA returned HTTP 200 for all 34 sitemap routes and sampled assets, HTTP 404 for a missing route, confirmed deployed `word-break: keep-all`, Google Play HTTP 200 and Apple lookup result count 1 with exact track ID `6797304717`.
 - 2026-09-18: Normalized Google Play and App Store controls to a shared 194×75 frame while preserving official artwork ratios; local build and check passed.
+
+## 2026-10-23 — SEO technical improvements
+
+- Added dependency-free post-build SEO validation and enhancement: valid reciprocal language alternates, page-preserving language switching, source-backed Article identities/citations, BreadcrumbList, social text metadata, noindex on the utility 404, and priority for existing above-fold app imagery.
+- Removed unverified structured-data offers where present. Preserved existing official-source verification dates, visible study content, app artwork, keep-all and equal marketplace badge frames.
+- Public repository instructions were treated only as methodology; no external skill, tool, tracking, account connection, or scheduled action was installed.
